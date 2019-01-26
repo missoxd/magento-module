@@ -1,6 +1,7 @@
 {
     "name": "mundipagg/magentoone",
     "description": "This is a payment module to ease integration with Mundipagg Gateway",
+    "type": "magento-module",
     "authors": [
         {
             "name": "Mundipagg Embeddables team",
